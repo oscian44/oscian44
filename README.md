@@ -6,6 +6,7 @@ This github's basically for school stuff atm
 - Stuff im learning:
    - JS
    - Python 
+   - Lua
    - A bit of Linux
 
 # How to reach me
